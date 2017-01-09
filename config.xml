@@ -60,7 +60,7 @@
       <name>labpal</name>
       <classname>ca.uqac.lif.labpal.Laboratory</classname>
       <files>
-        <zip>https://github.com/liflab/labpal/releases/download/v2.4/labpal-2.4.zip</zip>
+        <zip>https://github.com/liflab/labpal/releases/download/v2.5/labpal-2.5.zip</zip>
       </files>
     </dependency>
   </dependencies>
