@@ -72,8 +72,9 @@ this lab contains. Here is how you typically use the LabPal web interface.
 7. Once the assistant is done, you can export any of the plots and tables to a
    file, or the raw data points by using the Export button in the Status page.
 
-Please refer to the LabPal website or to the Help page within the web interface
-for more information about LabPal's functionalities.
+Please refer to the [LabPal website](https://liflab.github.io/labpal)
+or to the Help page within the web interface for more information about
+LabPal's functionalities.
 
 Disclaimer
 ----------
