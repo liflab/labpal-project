@@ -32,14 +32,14 @@ If you want to see any plots associated to the experiments, you need to have
 by typing `gnuplot`.
 
 This archive should contain a single runnable JAR file; suppose it is called
-`MyLab.jar`. To start the lab and use its web interface, type at the command
+`my-lab.jar`. To start the lab and use its web interface, type at the command
 line:
 
-    java -jar MyLab.jar --web
+    java -jar my-lab.jar
 
 You should see something like this:
 
-    LabPal v2.3
+    LabPal v2.6
     (C) 2015-2017 Laboratoire d'informatique formelle
     Université du Québec à Chicoutimi, Canada
     Please visit http://localhost:21212/index to run this lab
