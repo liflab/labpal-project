@@ -39,10 +39,11 @@ line:
 
 You should see something like this:
 
-    LabPal v2.6
+    LabPal v2.7.5
     (C) 2015-2017 Laboratoire d'informatique formelle
     Université du Québec à Chicoutimi, Canada
     Please visit http://localhost:21212/index to run this lab
+    Hit Ctrl+C in this window to stop
 
 Open your web browser, and type `http://localhost:21212/index` in the address
 bar. This should lead you to the main page of LabMate's web control panel.
