@@ -39,8 +39,8 @@ line:
 
 You should see something like this:
 
-    LabPal v2.7.5
-    (C) 2015-2017 Laboratoire d'informatique formelle
+    LabPal 2.8 - A versatile environment for running experiments
+    (C) 2014-2017 Laboratoire d'informatique formelle
     Université du Québec à Chicoutimi, Canada
     Please visit http://localhost:21212/index to run this lab
     Hit Ctrl+C in this window to stop
