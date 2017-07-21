@@ -1,3 +1,5 @@
+package mylab;
+
 import ca.uqac.lif.labpal.Laboratory;
 
 public class MyLaboratory extends Laboratory
