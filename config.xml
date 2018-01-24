@@ -57,10 +57,10 @@
       <!--
       LabPal. Used to handle the lab
       -->
-      <name>labpal</name>
+      <name>LabPal</name>
       <classname>ca.uqac.lif.labpal.Laboratory</classname>
       <files>
-        <zip>https://github.com/liflab/labpal/releases/download/v2.8/labpal-2.8.zip</zip>
+        <zip>https://github.com/liflab/labpal/releases/download/v2.9.4/labpal-2.9.4.zip</zip>
       </files>
     </dependency>
   </dependencies>
